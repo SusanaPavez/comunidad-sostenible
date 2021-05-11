@@ -1,0 +1,75 @@
+* {
+    outline: 1px dotted red;
+}
+menu{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgba(243, 239, 239, 0.767);
+}
+.fondogris{
+    background-color: lightgray;
+}
+
+a{
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bg-img-block{
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.metodologia{
+    color: white;
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.fuenteshverde{
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(58, 105, 4);
+    
+}
+
+.proyecto{
+    color: blue;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.fotoproyecto {
+    width: 100%;
+}
+
+.equipo{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.iconosredessociales{
+    width: 10%;
+}
+
+.fotoscarrusel{
+    width: 50px;
+}
+
+
+/*.imagensemilla {
+    background-image: url(img/semilla.jpg);
+    height: 400px;
+}
+
+.metodo {
+    background-image: url(img/metodo.JPG);
+    height: 400px;
+}
+
+.fondo {
+    background-image: url(img/fondo.jpg);
+    height: 300px;
+}*/
